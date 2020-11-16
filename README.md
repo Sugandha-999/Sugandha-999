@@ -1,14 +1,6 @@
-### Hello Coders 👋
+### Hello 👋
 - ⭐ I am heading towards becoming a **Web Developer** and working as a contributor in **Devlncept Contribution Program**. 
-- :innocent: You can find me on <!DOCTYPE html>
-<html>
-<head>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
-</head>
-<body>
-<i class="fa fa-linkedin"></i>
-</body>
-</html>
+- :innocent: You can find me on https://www.linkedin.com/company/linked-com/
 
 <!--
 **Sugandha-999/Sugandha-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
