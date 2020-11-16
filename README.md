@@ -1,6 +1,6 @@
 ### Hi there 👋
 - ⭐ I am currently learning new skills and working as a contributor in **Devlncept Contribution Program**. 
-- :innocent: You can find me on <i class="fa fa-linkedin" aria-hidden="true"></i>
+- :innocent: You can find me on <i class="fab fa-linkedin"></i>
 <!--
 **Sugandha-999/Sugandha-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
